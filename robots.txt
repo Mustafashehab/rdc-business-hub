@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mustafashehab.github.io/rdc-business-hub/sitemap.xml
